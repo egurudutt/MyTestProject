@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="magenta">#ad1fa8</color>
+    <color name="magentaDarkened">#90128c</color>
+
+    <color name="blue">#268ccc</color>
+    <color name="blueMedium">#19435D</color>
+    <color name="blueDark">#14232d</color>
+    <color name="blueLight">#cbe5f5</color>
+    <color name="blueLightDarkened">#b8d4e5</color>
+    <color name="blue30opacity">#46268ccc</color>
+    <color name="blue_70opacity">#b3268ccc</color>
+    <color name="blueDark60opacity">#9a0e222f</color>
+
+    <color name="magenta_70opacity">#b3a6198c</color>
+
+    <color name="greyLight">#eef3f6</color>
+    <color name="greyMedium">#949798</color>
+    <color name="greyDark">#434445</color>
+
+    <color name="textBlack">#333333</color>
+
+    <color name="green">#7ea336</color>
+    <color name="yellow">#f6ae00</color>
+    <color name="yellow02">#F5A623</color>
+    <color name="yellowLight">#f9f4da</color>
+
+    <color name="white01">#ffffff</color>
+    <color name="white60opacity">#99ffffff</color>
+    <color name="white75opacity">#bfffffff</color>
+    <color name="white85opacity">#d9ffffff</color>
+    <color name="black01">#000000</color>
+    <color name="black10opacity">#1a000000</color>
+    <color name="black30opacity">#4d000000</color>
+    <color name="black40opacity">#66000000</color>
+    <color name="black60opacity">#99000000</color>
+    <color name="black75opacity">#bf000000</color>
+    <color name="black85opacity">#d9000000</color>
+
+
+    <color name="overlayBackground">#7F000000</color>
+
+
+</resources>

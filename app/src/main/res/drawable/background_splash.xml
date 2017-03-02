@@ -1,0 +1,15 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:angle="90"
+                android:endColor="@color/blue"
+                android:startColor="@color/blue"></gradient>
+        </shape>
+    </item>
+    <item android:id="@id/PLACEHOLDER_BITMAP">
+        <bitmap
+            android:gravity="center_vertical|center_horizontal"
+            android:src="@drawable/ic_icon" />
+    </item>
+</layer-list>

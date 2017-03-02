@@ -1,0 +1,28 @@
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+
+    <dimen name="fontGigantic">30sp</dimen>
+    <dimen name="fontEnormous">26sp</dimen>
+    <dimen name="fontHuge">22sp</dimen>
+    <dimen name="fontExtraLarge">17sp</dimen>
+    <dimen name="fontLarge">15sp</dimen>
+    <dimen name="fontRegular">13sp</dimen>
+    <dimen name="fontSmall">11sp</dimen>
+
+    <!-- general margins -->
+    <dimen name="marginBaseOctuple">64dp</dimen>
+    <dimen name="marginBaseQuintuple">40dp</dimen>
+    <dimen name="marginBaseQuadruple">32dp</dimen>
+    <dimen name="marginBaseTriple">24dp</dimen>
+    <dimen name="marginBaseDouble">16dp</dimen>
+    <dimen name="marginBase">11dp</dimen>
+    <dimen name="marginBaseHalf">7dp</dimen>
+    <dimen name="marginBaseQuarter">2dp</dimen>
+    <dimen name="marginBaseEighth">1dp</dimen>
+
+    <dimen name="buttonRoundCornerRadius">4dip</dimen>
+    <dimen name="tabBarHeight">38dp</dimen>
+
+</resources>
